@@ -1,0 +1,2 @@
+cd C:\Users\Junão\tela-de-login\telalogin\login
+npm run dev
