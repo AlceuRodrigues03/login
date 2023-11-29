@@ -1,2 +1,2 @@
-cd C:\Users\Junão\tela-de-login\telalogin\login
+cd C:\Users\Junão\login\telalogin\login
 npm run dev
